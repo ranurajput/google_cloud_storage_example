@@ -1,0 +1,1 @@
+Google Cloud Storage is the object storage service offered by Google Cloud.
